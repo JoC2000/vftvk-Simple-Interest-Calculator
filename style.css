@@ -29,3 +29,7 @@ h1 {
 .footer {
     text-align: left;
 }
+
+.highlight {
+    background-color: yellow;
+}
